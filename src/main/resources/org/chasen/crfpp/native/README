@@ -1,0 +1,4 @@
+This folder contains the native libraries built for various platforms.
+Linux   - Compiled on Ubuntu 11.10
+Mac     - Compiled on Mac OSX Lion 10.7.4
+Windows - Compiled on Windows 7 SP1 (64-bit)

@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Java Build Artifacts #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse Metadata #
+.classpath
+.project
+.settings/
+
+# Maven Build Artifacts #
+target/
+
