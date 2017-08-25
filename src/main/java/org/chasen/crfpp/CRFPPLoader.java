@@ -25,8 +25,8 @@ import java.util.UUID;
  * property (This is the default path that JVM searches for native libraries).
  * </li>
  * <li>
- * (System property: <i>com.chasen.crfpp.lib.path</i>)/(System property:
- * <i>com.chasen.crfpp.lib.name</i>)
+ * (System property: <i>org.chasen.crfpp.lib.path</i>)/(System property:
+ * <i>org.chasen.crfpp.lib.name</i>)
  * </li>
  * <li>
  * One of the bundled libraries in the JAR file extracted into the folder

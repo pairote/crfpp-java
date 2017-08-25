@@ -104,6 +104,6 @@ Even though, the natively compiled libraries are bundled into `crfpp-java`, you 
 
 1. If the system property `org.chasen.crfpp.use.systemlib` is set to `true`, it will lookup folders specified by `java.lib.path` system property (This is the default path that JVM searches for native libraries).
 
-2. (System property: `com.chasen.crfpp.lib.path`)/(System property: `com.chasen.crfpp.lib.name`).
+2. (System property: `org.chasen.crfpp.lib.path`)/(System property: `org.chasen.crfpp.lib.name`).
 
 3. One of the bundled libraries in the JAR file extracted into the folder specified by `java.io.tmpdir`. If the system property `org.chasen.crfpp.tempdir` is set, use this folder instead of `java.io.tmpdir`.
