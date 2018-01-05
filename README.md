@@ -1,6 +1,8 @@
 crfpp-java
 ===
 
+[![Build Status](https://travis-ci.org/pairote/crfpp-java.svg?branch=master)](https://travis-ci.org/pairote/crfpp-java)
+
 A Java JNI wrapper for [CRF++](https://github.com/taku910/crfpp) which is an open source C++ implementation of Conditional Random Fields (CRF) a machine learning algorithm for segmenting/labeling sequential data.
 
 `crfpp-java` is a Java library that can be used across operating systems because it contains pre-compiled native libraries of CRF++ for Windows/Mac/Linux (For both 32-bit and 64-bit). At runtime, It will auto-detects your machine environment and loads the native library accordingly.
